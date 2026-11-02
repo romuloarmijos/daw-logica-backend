@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+*.jar
+out/
+build/
+target/
+
+# Configuraciones locales de IDEs
+.idea/
+*.iml
+.vscode/
+
+# PHP y dependencias
+vendor/
+.env
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
